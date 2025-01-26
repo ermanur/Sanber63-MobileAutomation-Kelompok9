@@ -17,3 +17,9 @@ Click Sign In Button On Login Screen
 
 Verify User Successfully Login
     Wait Until Element Is Visible          ${user_success_login} 
+
+
+#part of Malia's task
+Click Book Menu on Login Screen
+    Wait Until Element Is Visible    ${bookmenu_button}
+    Click Element    ${bookmenu_button}
