@@ -1,8 +1,6 @@
 *** Settings ***
 Documentation            Login page keyword related
 Variables                login-page-locators.yaml 
-Resource                 ../homePage/homePage.robot
-Resource                 ../loginPage/loginPage.robot
 
 # this variables is part of salsabila's task
 *** Variables ***
