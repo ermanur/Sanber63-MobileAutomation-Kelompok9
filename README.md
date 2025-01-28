@@ -3,16 +3,20 @@ Sanber63-MobileAutomation-Kelompok9
 
 Nama Lengkap - Nama github
 
-1. Erma Nursetyani -ermanur
-2. Geri Apta Maulana - gerimaulana
-3. Tiffany TN - tifannyy
-4. Moch Ghibran Jhi S - ghibranjs
-5. Salsabila Bahhas - salsabilabhs
-6. Malia Elisiana - meelsynya
-
+Erma Nursetyani -ermanur
+Geri Apta Maulana - gerimaulana
+Tifanny TN - tifannyy
+Moch Ghibran Jhi S - ghibranjs
+Salsabila Bahhas - salsabilabhs
+Malia Elisiana - itsmeelsy
 Bagian Tugas
 
-1. Sign In (Erma)
-2. Book Flight (..., ..., ...) 
-3. Search (Salsabila)
-4. Sign Out (...)
+Sign In (Erma)
+Book Flight One Way Economy & First Class (Malia)
+Book Flight Round Trip Economy & First Class(Ghibranjs)
+Book Flight Business Class (Fanny)
+Search (Salsabila)
+Sign Out
+
+Link Gdrive - Video Recording
+1. SignIn - ErmaNursetyani - https://drive.google.com/file/d/1tMHTx34MrtM3Zd_fRv1f24UaepX-bmAK/view?usp=sharing
