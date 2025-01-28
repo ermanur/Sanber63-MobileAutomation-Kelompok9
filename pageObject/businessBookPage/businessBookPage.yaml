@@ -1,0 +1,33 @@
+one_way: //android.support.v7.app.ActionBar.Tab[@content-desc="One Way"]
+round_trip: //android.support.v7.app.ActionBar.Tab[@content-desc="Round Trip"]
+
+spinners_from_city: //android.widget.Spinner[@resource-id="com.example.myapplication:id/spinnerFrom"]
+newyork: //android.widget.TextView[@resource-id="android:id/text1" and @text="New York"]
+chicago: //android.widget.TextView[@resource-id="android:id/text1" and @text="Chicago"]
+toronto: //android.widget.TextView[@resource-id="android:id/text1" and @text="Toronto"]
+
+spinners_to_city: //android.widget.Spinner[@resource-id="com.example.myapplication:id/spinnerTo"]
+london: //android.widget.TextView[@resource-id="android:id/text1" and @text="London"]
+paris: //android.widget.TextView[@resource-id="android:id/text1" and @text="Paris"]
+ottawa: //android.widget.TextView[@resource-id="android:id/text1" and @text="Ottawa"]
+
+spinners_class: //android.widget.Spinner[@resource-id="com.example.myapplication:id/spinnerClass"]
+business_class: //android.widget.TextView[@resource-id="android:id/text1" and @text="Business"]
+
+start_date: //android.widget.TextView[@resource-id="com.example.myapplication:id/textStartDate"]
+choose_start_date: //android.view.View[@content-desc="15 August 2019"]
+ok_button: //android.widget.Button[@resource-id="android:id/button1"]
+end_date: //android.widget.TextView[@resource-id="com.example.myapplication:id/textEndDate"]
+choose_end_date: //android.view.View[@content-desc="17 August 2019"]
+
+flight_button:  //android.widget.RadioButton[@resource-id="com.example.myapplication:id/radioButtonFlight"]
+flighthotel_button: //android.widget.RadioButton[@resource-id="com.example.myapplication:id/radioButtonFlightHotel"]
+
+book_button:  //android.widget.Button[@resource-id="com.example.myapplication:id/book_flight"]
+
+price_book_page: //android.widget.TextView[@resource-id="com.example.myapplication:id/textView6"]
+
+choose_price: //android.widget.Button[@resource-id="com.example.myapplication:id/price8"]
+confirm_button: //android.widget.Button[@resource-id="com.example.myapplication:id/confirm_order"]
+
+flight_booked:  //android.widget.CheckedTextView[@resource-id="com.example.myapplication:id/checkedTextView"]

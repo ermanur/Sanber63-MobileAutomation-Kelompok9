@@ -7,3 +7,7 @@ user_success_login: //android.widget.TextView[@resource-id="com.example.myapplic
 #part of malia's task
 bookmenu_button:  //android.widget.Button[@resource-id="com.example.myapplication:id/book"]
 signin_button:  //android.widget.Button[@resource-id="com.example.myapplication:id/signIn"]
+
+
+#part of salsabila's task
+search_menu:  //android.widget.Button[@resource-id="com.example.myapplication:id/search_flight"]
