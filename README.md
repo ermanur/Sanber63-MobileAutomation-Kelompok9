@@ -16,3 +16,8 @@ Bagian Tugas
 2. Book Flight One Way Economy & First Class(Malia) 
 3. Search (Salsabila)
 4. Sign Out
+
+Link Gdrive - Recording Video
+1. SignIn - Erma - https://drive.google.com/file/d/1tMHTx34MrtM3Zd_fRv1f24UaepX-bmAK/view?usp=sharing
+2.
+3. 
